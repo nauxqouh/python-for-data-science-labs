@@ -53,3 +53,8 @@ Here, you can explore various essential skills in using Python for Data Science,
   
   💡 _A practical project that applies Python, NLP, and web crawling techniques!_
 
+  _Note: For security reasons, the API key is stored in a `.env` file. Ensure you have `python-dotenv` installed to load environment variables:_
+  ```
+  pip install python-dotenv
+  ```
+
