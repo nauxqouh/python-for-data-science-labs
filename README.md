@@ -1,6 +1,6 @@
-# python-for-data-science-labs
+# Description
 
-This repo contains weekly practical codes for my _Python for Data Science_ course at university.
+This repo contains weekly practical codes for my **Python for Data Science** course at university.
 
 Here, you can explore various essential skills in using Python for Data Science, tailored for beginners. 🚀
 
