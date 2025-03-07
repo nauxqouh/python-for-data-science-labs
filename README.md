@@ -37,3 +37,5 @@ Here, you can explore various essential skills in using Python for Data Science,
 
   🔸 Covers the basics of tensors and building a simple neural network model.
 
+- **Lab06 - Comprehensive Review**
+
